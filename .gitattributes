@@ -1,0 +1,2 @@
+Windows/TheUnwakingDream/Binaries/Win64/TheUnwakingDream-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
+Windows/TheUnwakingDream/Content/Paks/TheUnwakingDream-Windows.ucas filter=lfs diff=lfs merge=lfs -text
